@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "25.10.2022 14:25 Farm10-14_by_scenum",
+	"lastEventDate": "25.10.2022 14:26 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100082735778521",
 	"name": "",
-	"amountFriends": "152",
+	"amountFriends": "161",
 	"screenname": "Ana Clara Perez",
 	"birthdate": "1990 September 15",
 	"country": "Brazil",
@@ -12,7 +12,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698161871.393924,
+			"expirationDate": 1698243464.96639,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -72,11 +72,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrOGNlajFrYmFnb2giLCJ0aW1lIjoxNjY2NTY4Mzk1fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrOXAwaXViN2xzbSIsInRpbWUiOjE2NjY2MzEzOTR9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698161871.394,
+			"expirationDate": 1698243464.966419,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "45%3A4t0Qdeo-eAjq7g%3A2%3A1656120558%3A-1%3A5538%3A%3AAcUCeTMgSonU6oHdBnKEc5w5TyH-9oJEZRhOY_uMOGo"
+			"value": "45%3A4t0Qdeo-eAjq7g%3A2%3A1656120558%3A-1%3A5538%3A%3AAcXucc6P4sAOpO_hxbD6STkYH9YuKmLsvSgXOTPH-w0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667231259,
+			"expirationDate": 1667312794,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "929x608"
+			"value": "1920x937"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674402378.650356,
+			"expirationDate": 1674483915.958952,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UXT9ceInV1kImq2t.AWXmZCYo-UIzdwQAE_NDmbaYHfU.BjVrFQ.OL.AAA.0.0.BjVrNL.AWVq8mWw7M0"
+			"value": "0oi89IG7AXVBtz3AI.AWVpo9lUtLO6gnYw-Hi1pH8jqbs.BjV_AJ.OL.AAA.0.0.BjV_HM.AWXk-QvFsR0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100018924840789%22%7D%5D%2C%22utc3%22%3A1666626455835%2C%22lm3%22%3A%22u.100009857072325%22%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666707991901%2C%22v%22%3A1%7D"
 		}
 	]
 }
