@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Valentina Couto",
 	"birthdate": "1995 July 1",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667299312,
+			"expirationDate": 1667307375,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "929x608"
+			"value": "1900x919"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674470375.705954,
+			"expirationDate": 1674478456.182307,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VcUemQgMBcCAAgkC.AWXDdkLOrAGrwRHyAO9Mc0dx_vU.BjV7un.to.AAA.0.0.BjV7zn.AWWYSuwmm4Q"
+			"value": "0VcUemQgMBcCAAgkC.AWVDFqLtefR9TBNO2-X87KX_wa4.BjV7un.to.AAA.0.0.BjV9x4.AWUMCsQu3aM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666694490204%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666702572958%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.10.2022 12:54 Farm1-3_by_scenum",
+	"lastEventDate": "25.10.2022 12:56 Farm1-3_by_scenum",
 	"code2fa": "FIQYUFMER2RVGAU27JYZRK4RKGZA4IGS"
 }
