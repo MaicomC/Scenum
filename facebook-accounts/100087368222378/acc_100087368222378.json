@@ -9,7 +9,7 @@
 	"screenname": "Joana Freitas",
 	"birthdate": "1995 May 4",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667260840,
+			"expirationDate": 1667351069,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674431930.798006,
+			"expirationDate": 1674522157.919529,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dAVs7VlJVwrQiF4G.AWWZV1FqKZ_625CSHymUSkb-T_8.BjVyVu.5S.AAA.0.0.BjVya5.AWUOG64v_d8"
+			"value": "0dAVs7VlJVwrQiF4G.AWUS2CUKJbbPrGYUwIfcWoi5oDc.BjVyVu.5S.AAA.0.0.BjWIcu.AWWwPNkElIs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666656046872%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666746247429%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.10.2022 01:02 Farm1-3_by_scenum",
+	"lastEventDate": "26.10.2022 01:04 Farm1-3_by_scenum",
 	"code2fa": "U6SOFVBSXCRWMHLNRYJHBIZ7AEVX26YO"
 }
