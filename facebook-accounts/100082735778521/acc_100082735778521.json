@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.10.2022 00:22 Farm10-14_by_scenum",
+	"lastEventDate": "28.10.2022 00:24 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100082735778521",
 	"name": "",
-	"amountFriends": "170",
+	"amountFriends": "179",
 	"screenname": "Ana Clara Perez",
 	"birthdate": "1990 September 15",
 	"country": "Brazil",
@@ -25,7 +25,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698326371.452528,
+			"expirationDate": 1698452100.824354,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -72,11 +72,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrYmY3dW80YjNqMCIsInRpbWUiOjE2NjY3MTIwMTB9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrZDdvcGU1ZHd4YyIsInRpbWUiOjE2NjY3OTU1NjF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698326371.452566,
+			"expirationDate": 1698452100.824393,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "45%3A4t0Qdeo-eAjq7g%3A2%3A1656120558%3A-1%3A5538%3A%3AAcVg57pjLP5sN1uzVjJrw6dZOfIxGWx7OdXv0a0QzrY"
+			"value": "45%3A4t0Qdeo-eAjq7g%3A2%3A1656120558%3A-1%3A5538%3A%3AAcXAJY07fil8Xx_e_ys5ilVKEM0UCnseqNRBri6YJF8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667395701,
+			"expirationDate": 1667521454,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674566826.253426,
+			"expirationDate": 1674692579.502658,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LQ9fOSaMVEht6hmz.AWUk6pb8ksIQ-eQ7w1UOziwKy5c.BjWTPl.OL.AAA.0.0.BjWTWs.AWWUHX2pt98"
+			"value": "0vPsz2A3lMOvKIrzn.AWXE_WGNfIsZGRfWgoXMAmp8zWE.BjWx8F.OL.AAA.0.0.BjWyDk.AWVKszGn77g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100009857072325%22%7D%5D%2C%22utc3%22%3A1666790898064%2C%22lm3%22%3A%22u.100085370326353%22%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666916652503%2C%22lm3%22%3A%22u.100009857072325%22%2C%22v%22%3A1%7D"
 		}
 	]
 }
