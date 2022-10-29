@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.10.2022 02:31 Farm10-14_by_scenum",
+	"lastEventDate": "29.10.2022 02:32 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100082245566302",
 	"name": "",
-	"amountFriends": "204",
+	"amountFriends": "207",
 	"screenname": "Angela Fernandes",
 	"birthdate": "1994 March 6",
 	"country": "Brazil",
@@ -12,7 +12,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698444951.126157,
+			"expirationDate": 1698546393.217526,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -22,19 +22,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100082245566302"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1719149550.042,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "7Ly1Yp8Bg2iCDVYrs1j7BHmN"
 		},
 		{
 			"domain": ".facebook.com",
@@ -51,6 +38,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1719149550.042,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7Ly1Yp8Bg2iCDVYrs1j7BHmN"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698444951.126194,
+			"expirationDate": 1698546393.21757,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -72,11 +72,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "25%3AgYkF2EYupWxZgA%3A2%3A1656077974%3A-1%3A5513%3A%3AAcVnDnYotxT4w5K3VmmBURQfl9BswSFUgHmhDBXwh9M"
+			"value": "25%3AgYkF2EYupWxZgA%3A2%3A1656077974%3A-1%3A5513%3A%3AAcUJi51RPVkxt2m5NI84W_56JIyx4c8GwIsVktY7cMg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667514132,
+			"expirationDate": 1667615557,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674685258.263305,
+			"expirationDate": 1674786684.689944,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tkKm3Bah2bwNLFGW.AWVbq3SP1YssB77eo64Pz0jrJvI.BjWwMX.SV.AAA.0.0.BjWwRL.AWWqI3hvd54"
+			"value": "0biG5DUOdpj3uy1gt.AWVvR7w0KuLBGFRWVqhaqMdvC-8.BjXI9a.SV.AAA.0.0.BjXJB9.AWVA3WNmagM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100077684134060%22%7D%5D%2C%22utc3%22%3A1666909330081%2C%22lm3%22%3A%22u.100053646244177%22%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100075433021362%22%7D%2C%7B%22i%22%3A%22u.100077955738157%22%7D%2C%7B%22i%22%3A%22u.100059337889288%22%7D%2C%7B%22i%22%3A%22u.100035635382728%22%7D%2C%7B%22i%22%3A%22u.100053646244177%22%7D%2C%7B%22i%22%3A%22u.100077684134060%22%7D%5D%2C%22utc3%22%3A1667010755359%2C%22lm3%22%3A%22u.100000524934049%22%2C%22v%22%3A1%7D"
 		}
 	]
 }
