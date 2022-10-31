@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
 	"id": "100082232665689",
-	"lastEventDate": "28.10.2022 02:29 Farm10-14_by_scenum",
+	"lastEventDate": "31.10.2022 12:42 Farm10-14_by_scenum",
 	"status": 2,
 	"name": "",
-	"amountFriends": "118",
+	"amountFriends": "171",
 	"screenname": "Diana Viana",
 	"birthdate": "1991 October 12",
 	"country": "Brazil",
@@ -12,16 +12,16 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698263391.588499,
+			"expirationDate": 1719060683.196,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "c_user",
+			"name": "datr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "100082232665689"
+			"value": "ymG0Yq5RpsofnGjdRD5hO7nJ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -38,32 +38,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1719060683.196,
+			"expirationDate": 1698755259.557295,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "datr",
+			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "ymG0Yq5RpsofnGjdRD5hO7nJ"
+			"value": "100082232665689"
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1667305676,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "unspecified",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrN3hkeTExNm5heDIiLCJ0aW1lIjoxNjY2NTQ4OTM0fQ%3D%3D"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698263391.588549,
+			"expirationDate": 1698755259.557454,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -72,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "4%3AsW09lVg1zr0kCg%3A2%3A1655988902%3A-1%3A5517%3A%3AAcWBKxsLWrJJj11X-GPr68cGtVZ0z_LatNnEZ_pmCTA"
+			"value": "4%3AsW09lVg1zr0kCg%3A2%3A1655988902%3A-1%3A5513%3A%3AAcUTq4WJy8T9mPF3RbUZeN_-fNdZcwNSjOTBxRqdwiA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667332799,
+			"expirationDate": 1667824963,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +90,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674503926.659619,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrbWFtZDRvNTYxbiIsInRpbWUiOjE2NjcyMTkyNzV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674996079.818709,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rYy7w1k2RvLCy5SG.AWUbOXqflkMousqHyvcTfbfU2zc.BjWD3g.sT.AAA.0.0.BjWD_3.AWXFsqFFkd8"
+			"value": "0yohyR4qw3RG50OdJ.AWX0bVCq1Pfj-glWly0MpAU4Za8.BjX788.sT.AAA.0.0.BjX8Jx.AWVFIl_VItc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666727997328%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667220161625%2C%22v%22%3A1%7D"
 		}
 	]
 }
