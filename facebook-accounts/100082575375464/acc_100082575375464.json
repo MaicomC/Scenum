@@ -1,15 +1,28 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "02.11.2022 20:42 Farm10-14_by_scenum",
+	"lastEventDate": "02.11.2022 20:43 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100082575375464",
 	"name": "",
-	"amountFriends": "109",
+	"amountFriends": "114",
 	"screenname": "Livia Clara Alves",
 	"birthdate": "1992 April 20",
 	"country": "Brazil",
 	"isAvatarExists": true,
 	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1698956616.550522,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100082575375464"
+		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1756269164,
@@ -22,19 +35,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1698856371.484254,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100082575375464"
 		},
 		{
 			"domain": ".facebook.com",
@@ -72,11 +72,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrZ3RsdGE0anRtdCIsInRpbWUiOjE2NjY5NjM5Mzd9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrb2tuZm4zMG9wZSIsInRpbWUiOjE2NjczMjU1Nzl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698856371.484282,
+			"expirationDate": 1698956616.550547,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AMpDFXHL_cpxMfQ%3A2%3A1656125337%3A-1%3A5452%3A%3AAcUHXtLaaiiOlcZcZgiZimKbRUUiYv63Z85k8F-NLUE"
+			"value": "42%3AMpDFXHL_cpxMfQ%3A2%3A1656125337%3A-1%3A5452%3A%3AAcVEiQG_xew2RNXsNQi18pRBXpSzzKGf87cEXvR7WOY"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667925500,
+			"expirationDate": 1668026622,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675096627.322006,
+			"expirationDate": 1675197749.112492,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0N7Bu6TaLpevCcoMg.AWWmx6AiC8wxRtOGjLQ_L1Bg04Y.BjYUo0.Ij.AAA.0.0.BjYUs0.AWUQQvHtzt0"
+			"value": "0413kEQCTRiERpt5m.AWUc1yyp8HcNJC0CN-vwQXiwkNs.BjYtHL.Ij.AAA.0.0.BjYtY3.AWVV8cnTgHc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100021256247270%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667320698016%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667421820623%2C%22v%22%3A1%7D"
 		}
 	]
 }
